@@ -143,5 +143,3 @@ GET http://localhost:3000/stats?coin=bitcoin
 4. Add frontend support for visualizing deviation and price trends.
 
 --- 
-
-Let me know if you need further refinements!
