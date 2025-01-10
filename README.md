@@ -26,7 +26,6 @@ This project is a backend application that calculates the standard deviation of 
 - **Node.js**: Backend server.
 - **Express.js**: API routing and request handling.
 - **MongoDB**: Database for storing cryptocurrency data.
-- **Puppeteer**: Not used in the current version but could assist with advanced scraping (optional).
 - **Cron**: Schedules periodic fetching of cryptocurrency data.
 - **Axios**: Makes HTTP requests to the CoinGecko API.
 
