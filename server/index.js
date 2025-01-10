@@ -1,9 +1,9 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require("dotenv"); 
-const statsRoutes = require('./Routes/stats');
-const deviationRoutes = require('./Routes/deviation');
-const fetchCryptoJob = require('./Jobs/crypto');
+const statsRoutes = require('./Routes/statistics');
+const deviationRoutes = require('./Routes/deviate');
+const fetchCryptoJob = require('./Job/crypto');
 
 dotenv.config();
 const app = express();
